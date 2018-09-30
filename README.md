@@ -1,2 +1,1 @@
 # AutoScrollJs
-### by GuilhermeGHS
